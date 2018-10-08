@@ -9,40 +9,49 @@ BODY {
 }
 
  /* Name at Top*/
-H1 {
+#name {
   color: #33485e;
   font-size:3em;
   text-transform: uppercase;
   text-align:center;
+  width: 60%;
+  minimum width:300 px;
+  margin: 0 auto;
+
 }
 
+
+
  /* Section titles */
-H2 {
+.sectionheader {
   font-size:1.5em;
   background:#33485e;
   color: #ffff;
   text-transform: uppercase;
   font-weight:400;
+  width:70%;
+
 }
 
  /* My Title */
-strong {
+#title {
   color:#33485e;
   text-transform: uppercase;
   text-align:center;
+  font-weight:600;
   font-size:1.5em;
 }
 
 /* Job Title */
-H3 {
+.jobtitle {
   font-weight: 600;
   font-size:1.5em;
 }
 
 /* Job Org */
-H4 {
+.organization {
   font-weight: 400;
-  font-size:1.5em;
+  font-size:1.25em;
 }
 
 /* Job Date */
