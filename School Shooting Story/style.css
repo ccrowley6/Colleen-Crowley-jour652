@@ -1,0 +1,74 @@
+
+.bg-dark {
+ background:#000 !important;
+}
+
+
+ul.navbar-nav {
+ margin-left:50%;
+}
+
+.navbar {
+ font-family: 'Montserrat', sans-serif;
+ font-size:1.25em;
+ color:white;
+}
+
+
+img{
+  display: block;
+  height: auto;
+  max-width:900px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  align: center;
+}
+
+h1{
+font-size: 3em;
+font-family: Montserrat;
+font-weight:700;
+text-align:center;
+}
+
+h2{
+font-size: 1em;
+font-family: 'Montserrat', sans-serif;
+text-align:center;
+}
+
+body{
+  font-family: 'PT Serif', sans-serif;
+}
+
+
+p{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.25em;
+  max-width: 800px;
+  text-align: center;
+  line-height:180%;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.red {
+ color: #e0162b;
+}
+
+.blue {
+ color: #0052a5;
+}
+
+
+footer{
+  background-color: black;
+  max-height: 100px;
+  max-width: 100%;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1em;
+  text-align: left;
+  padding: 25px;
+}
